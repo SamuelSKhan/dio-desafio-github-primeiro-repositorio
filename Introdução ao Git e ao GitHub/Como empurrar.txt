@@ -1,0 +1,17 @@
+1. Verifica se há algo para ser adicionado/enviado pelo:
+git status
+
+2. Adicione caso necessário com
+git add *
+
+3. Faça commit e com mensagem
+git commit -m "xxxxx"
+
+4. Verifique se há commits para serem enviados para o repositório remoto
+git status
+
+5. Empurre para o repositório remoto
+git push origin main
+
+6. Confirme o status do repositório local
+git status

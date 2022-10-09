@@ -1,3 +1,9 @@
-Lin para download do Git: https://github.com/git-for-windows/git/releases/download/v2.38.0.windows.1/Git-2.38.0-64-bit.exe
+###Link para download do Git: https://github.com/git-for-windows/git/releases/download/v2.38.0.windows.1/Git-2.38.0-64-bit.exe
 
 O Git Bash é um terminal estendido para otimizar o uso do Git.
+Utilizar o Git e GitHub para evitar o excesso de documentos em diferentes versões, através de "snapshots".
+.md extensão markdown
+
+Untracked > Unmodified > Modified > Staged
+
+

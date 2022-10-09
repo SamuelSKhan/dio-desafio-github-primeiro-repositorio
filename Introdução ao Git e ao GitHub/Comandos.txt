@@ -1,0 +1,9 @@
+mkdir - criar pastas
+cd dir - entrar numa pasta
+git init - inicializa o repositório
+ls - listar
+cd .. - voltar
+git clone - clonar de um repositório remoto
+git status - mostra como está o repositório (se já está adicionado, se falta algo para commit, etc).
+git add * - adiciona uma mudança no diretório no Stage Area
+gt push origin main - mandar para o repositório remoto
